@@ -1,6 +1,6 @@
 Assignment 2 - Part A
 JavaScript Problem Solving
-This repository contains solutions to three JavaScript programming problems: Second Largest Number, Palindrome Checker, and Flexible FizzBuzz. The assignment focuses on problem solving, logical thinking, and writing reusable code.
+- This repository contains solutions to three JavaScript programming problems: Second Largest Number, Palindrome Checker, and Flexible FizzBuzz. The assignment focuses on problem solving, logical thinking, and writing reusable code.
 
 Files Included
 - secondLargest.js
@@ -36,4 +36,4 @@ Complexity Notes
 - Flexible FizzBuzz: O(n × r)
 
 What I Learned
-Through this assignment, I learned how to solve programming problems using different approaches. I practiced working with arrays, strings, loops, functions, and algorithm design. I also learned how to make code more flexible and reusable.
+- Through this assignment, I learned how to solve programming problems using different approaches. I practiced working with arrays, strings, loops, functions, and algorithm design. I also learned how to make code more flexible and reusable.
